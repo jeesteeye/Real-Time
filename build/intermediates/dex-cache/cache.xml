@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prof Raakici\.android\build-cache\4f521a401f7513244c634a9866a57cebc4c3d300\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Prof Raakici\Desktop\RealTime\app\build\intermediates\pre-dexed\debug\classes_5b6eb80bb3514da05b4e2ccd96c99fdcab212241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prof Raakici\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Prof Raakici\Desktop\RealTime\app\build\intermediates\pre-dexed\debug\classes_24abecb5dcc3e93149bc24dfdd9ac34b43cc7860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prof Raakici\.android\build-cache\f8615611323d4a490c95b741e61da942abca8cba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Prof Raakici\Desktop\RealTime\app\build\intermediates\pre-dexed\debug\classes_d7e155f040335991c87d56fec4fd375b7eb49d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prof Raakici\Desktop\RealTime\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\Prof Raakici\Desktop\RealTime\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_9f929386c655b24a7a06f877ff21a94cc6197e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prof Raakici\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Prof Raakici\Desktop\RealTime\app\build\intermediates\pre-dexed\debug\classes_209d60b6b52e6c57f81c8b7d8e63c1be0ce90095.jar" />
+    </item>
+
+</items>
